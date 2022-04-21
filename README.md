@@ -1,0 +1,2 @@
+# CDN
+Repos for JSDelivr
